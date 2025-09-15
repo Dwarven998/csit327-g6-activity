@@ -2,4 +2,4 @@
 
 - 
 - Revilleza, Frederick (**@juantojuan**)
-- Aquillo, Algian (**Dwarven998**)
+- Aquillo, Algian (**@Dwarven998**)
