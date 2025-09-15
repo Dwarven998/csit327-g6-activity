@@ -2,5 +2,5 @@
 - Year: 3rd Year
 - Section: G6
 - Favorite Language: Java, Python
-- One Git Tip Learned: Using "Git Status"
+- One Git Tip Learned: Using "git status"
 - GitHub: @Dwarven998
