@@ -1,6 +1,6 @@
 - Program: BSIT
 - Year: 3rd Year
 - Section: G6
-- Favorite Language: Java, Python
-- One Git Tip Learned: Using "git status"
-- GitHub: @Dwarven998
+- Favorite Language: Python, Java
+- One Git Tip Learned: Use 'Git Branch' often.
+- GitHub: @dwarven998
